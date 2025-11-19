@@ -25,11 +25,11 @@ Elle doit refléter un travail de qualité et permettre à toute personne de com
 
 ## Conventions à respecter
 
-1. **Reporting hebdomadaire**  
+### **Reporting hebdomadaire**  
    - Chaque semaine doit avoir sa propre section ou fichier (`week1.md`, `week2.md`, etc.).  
    - Décrire les objectifs, les tâches réalisées, les difficultés rencontrées et les solutions apportées.
 
-2. **Illustrations médias et schémas**  
+### **Illustrations médias et schémas**  
    - Toutes les images ou captures d’écran doivent être **fournies, titrée et correctement référencées**.  
    - Les fichiers images doivent être stockés dans un le dossier `/images` avoir un nom significatif au format snake_case.
    - Les schémas de cablâge sont à réaliser avec `Fritzing`.
@@ -37,14 +37,19 @@ Elle doit refléter un travail de qualité et permettre à toute personne de com
      \```\<langage>
      \```
 
-3. **Clarté et lisibilité**  
+### **Clarté et lisibilité**  
    - Utiliser des titres, sous-titres et listes à puces pour structurer le contenu.  
    - Rédiger des phrases complètes et compréhensibles.  
 
-4. **Respect du format Markdown Ou Latek pour les formules**  
+### **Respect du format Markdown Ou Latek pour les formules**  
    - Vérifier la bonne syntaxe Markdown pour que la documentation soit correctement rendue par MkDocs.  
    - Éviter le contenu brut non formaté.
    - Introduire toute formule mathématique au format LateK, celui-ci est pris en charge par Github Pages.
 
-5. **Fichiers**  
+### **Fichiers**  
    - Les différents fichiers de codes, modèles 3D ou datasheet seront ajouter au projet avec des messages de commit significatif.
+
+### **Communications**
+   - Les échanges 'casuals' entre les membres du groupe peuvent s'effectuer sur le serveur Discord mis à disposition à cet effet.
+   - Les échanges avec les responsables pédagogiques en rapport avec le sujet se feront par mail avec en objet le préfixe \[DU - CTI\]\[SERRE\], en mettant systèmatiquement en copie la responsable de formation.
+   - Les absences des membres aux sessions Fablab devront être notifié aux autres membres du groupe, au moin un représentant du groupe doit être présent le Mardi matin afin de faire le point sur l'avancemenet du projet avec la responsable de formation.
