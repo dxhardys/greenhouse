@@ -88,6 +88,7 @@ nav:
           - Semaine 5 : zineddine/week5.md
   - Annex:
       - Convention: annex/convention.md
+      - Contribuer: annex/contribute.md
 
 extra_css:
   - stylesheets/extra.css
