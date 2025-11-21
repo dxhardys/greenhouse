@@ -1,7 +1,7 @@
 ---
 title: "Reporting Semaine du 03/11/2025"
 institute: "DU Capteur et Technologie Innovante - Projet | Fablab | Paris Saclay"
-author: "L. Zineddine"
+author: "A. Sofiane"
 date: \today
 theme: metropolis
 colortheme: orchid
