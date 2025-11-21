@@ -69,11 +69,23 @@ nav:
   - Home: index.md
   - Reporting:
       - Sofiane:
-          - Semaine 1 - Prise en main: sofiane/week1.md
-          - Semaine 2 - Modelisation: sofiane/week2.md
+          - Semaine 1 : sofiane/week1.md
+          - Semaine 2 : sofiane/week2.md
+          - Semaine 3 : sofiane/week3.md
+          - Semaine 4 : sofiane/week4.md
+          - Semaine 5 : sofiane/week5.md
       - Ishak:
-          - Semaine 1 - Prise en main: ishak/week1.md
-          - Semaine 2 - Developpement: ishak/week2.md
+          - Semaine 1 : ishak/week1.md
+          - Semaine 2 : ishak/week2.md
+          - Semaine 3 : ishak/week3.md
+          - Semaine 4 : ishak/week4.md
+          - Semaine 5 : ishak/week5.md
+      - Zineddine:
+          - Semaine 1 : zineddine/week1.md
+          - Semaine 2 : zineddine/week2.md
+          - Semaine 3 : zineddine/week3.md
+          - Semaine 4 : zineddine/week4.md
+          - Semaine 5 : zineddine/week5.md
   - Annex:
       - Convention: annex/convention.md
 
