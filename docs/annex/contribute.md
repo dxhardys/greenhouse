@@ -29,7 +29,7 @@ Pour pouvoir contribuer au reporting sur windows on se baseras sur l'intégratio
 Sur `VSCode` tapez `Ctrl + Shift + P` pour ouvrir l'invite de commande puis entrez `git clone <repo-url>`, `<repo-url>` correspond à l'URL https du repository, voir la figure ci-dessous :
 
 <figure style="text-align: center;">
-  <img src="/annex/images/repository_clone.md"  width="400">
+  <img src="/annex/images/repository_clone.png"  width="400">
   <figcaption> Cloner un dépot GitHub</figcaption>
 </figure>
 
