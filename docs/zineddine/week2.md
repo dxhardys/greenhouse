@@ -31,3 +31,11 @@ Fonctionnement proposé :
 
   - L’adaptateur secteur chargé d’alimenter les cartes logiques (Raspberry Pi, Arduino, etc.).
 ## 2. Amélioration interne au niveau du câblage du bloc 
+À l’intérieur, la distribution sera organisée grâce à trois connecteurs séparés, permettant une séparation nette des circuits et assurant une connexion plus fiable et professionnelle. Cette organisation facilite également la maintenance en cas de panne et garantit un repérage clair de chaque conducteur, ce qui améliore considérablement la lisibilité et la sécurité du câblage.
+## 3. Ajout d’un interrupteur extérieur
+
+Pour améliorer encore l’exploitation de la serre et faciliter les interventions, il est recommandé d’ajouter un interrupteur général à l’extérieur de la serre. Cet interrupteur permettra de couper totalement l’alimentation avant toute intervention, garantissant ainsi la sécurité des manipulations internes et réduisant les risques liés au travail sous tension.
+
+## Matériel nécessaire 
+
+Pour réaliser les corrections mentionnées précédemment, le matériel nécessaire concernera principalement la connectique et les éléments de distribution électrique. Cela inclut les câbles, les connecteurs, le bloc de distribution et un interrupteur général pour sécuriser l’alimentation. Les détails précis seront définis une fois le design optimal de l’installation finalisé, afin de garantir une mise en œuvre propre, sécurisée et facilement dépannable. 
