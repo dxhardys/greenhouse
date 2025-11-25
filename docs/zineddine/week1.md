@@ -29,7 +29,8 @@ Dans le cadre du projet de serre connectée, notre groupe travaille sur l’amé
  - Cette absence de repérage engendre une difficulté importante pour localiser rapidement une panne ou réaliser un diagnostic fiable.
 
  - L’accessibilité aux composants est mauvaise en raison de l’encombrement général de l’installation. 
- ## Propositions de corrections et améliorations
+ 
+## Propositions de corrections et améliorations
  ### 1. Réorganisation complète du câblage 
   - Refaire le cheminement des câbles afin d’obtenir une installation propre, structurée et facile à suivre.
   - Ajouter des goulottes, gaines ou chemins de câbles pour éviter l’encombrement et protéger les conducteurs. 
@@ -40,11 +41,15 @@ Dans le cadre du projet de serre connectée, notre groupe travaille sur l’amé
  - Numéroter les borniers et les départs pour faciliter le suivi.
 
  - Documenter clairement la correspondance entre chaque repère et sa fonction.
+ 
  ### 4. Amélioration du calage et de l’accessibilité
+
  - Revoir la disposition des composants (alimentations, modules, borniers…) afin d’améliorer l’accessibilité.
 
  - Fixer solidement chaque élément sur un support ou panneau technique adapté. 
+
  ### 6. Facilitation du dépannage futur
+ 
  Toutes les améliorations proposées ont également pour objectif de faciliter le dépannage, notamment en : 
   - permettant une identification rapide des circuits, 
   rendant les composants facilement accessibles,
